@@ -1,0 +1,26 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# SQLite DB files (optional: only if you don’t want to push them)
+*.sqlite
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS/IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Uploads/downloads
+*.db
+*.sqlite3
+
+# Logs
+*.log
