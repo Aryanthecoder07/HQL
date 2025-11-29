@@ -1,5 +1,5 @@
 # core/gemini_llm.py
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 
